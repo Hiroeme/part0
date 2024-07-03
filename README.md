@@ -1,5 +1,7 @@
 # part0
-https://fullstackopen.com/en/part0/fundamentals_of_web_apps
+Resource: https://fullstackopen.com/en/part0/fundamentals_of_web_apps
+
+Hello! This is just me documenting my progress in this online course. If I make any mistakes, feel free to correct me! Thank you for reading!
 
 ## 0.4: New note diagram
 ```mermaid
